@@ -76,6 +76,27 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		881C37A4233A85A9004A4455 /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Constants;
+			sourceTree = "<group>";
+		};
+		881C37A5233A85B2004A4455 /* Localization */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Localization;
+			sourceTree = "<group>";
+		};
+		881C37A6233A85BA004A4455 /* Persistence */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Persistence;
+			sourceTree = "<group>";
+		};
 		884BE8EE232EA383009598B4 = {
 			isa = PBXGroup;
 			children = (
@@ -99,6 +120,9 @@
 		884BE8F9232EA383009598B4 /* BookCase */ = {
 			isa = PBXGroup;
 			children = (
+				881C37A6233A85BA004A4455 /* Persistence */,
+				881C37A5233A85B2004A4455 /* Localization */,
+				881C37A4233A85A9004A4455 /* Constants */,
 				884BE8FA232EA383009598B4 /* AppDelegate.swift */,
 				884BE8FC232EA383009598B4 /* SceneDelegate.swift */,
 				884BE8FE232EA383009598B4 /* MainViewController.swift */,

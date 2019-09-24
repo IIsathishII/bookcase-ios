@@ -1,0 +1,39 @@
+/* 
+  Genres_Localizable.strings
+  BookCase
+
+  Created by SathishKumar on 21/09/19.
+  Copyright © 2019 SathishKumar. All rights reserved.
+*/
+
+"Action_and_Adventure" = "Action and Adventure";
+"Anthology" = "Anthology";
+"Classic"  = "Classic";
+"Comic_and_GraphicNovel" = "Comic and Graphic Novel";
+"Crime_and_Detective" = "Crime and Detective";
+"Drama" = "Drama";
+"Children" = "Children's";
+"Fantasy" = "Fantasy";
+"Historical_fiction" = "Historical Fiction";
+"Horror" = "Horror";
+"Humour" = "Humour";
+"Mystery" = "Mystery";
+"Politics" = "Politics";
+"Poetry" = "Poetry";
+"Romance" = "Romance";
+"Satire" = "Satire";
+"Science_fiction" = "Science Fiction";
+"Short_story" = "Short Story";
+"Thriller" = "Thriller";
+
+"Art" = "Art";
+"Biography_or_Autobiography" = "Biography/Autobiography";
+"Cookbook" = "Cookbook";
+"Health" = "Health";
+"History" = "History";
+"Law" = "Law";
+"Religion_and_spirituality" = "Religion and Spirituality";
+"Science" = "Science";
+"Self_help" = "Self-help";
+"Textbook" = "Textbook";
+"Travel" = "Travel";
